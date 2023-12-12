@@ -1,0 +1,107 @@
+﻿@model IEnumerable<App.ApplicationCore.Domain.Reservation>
+
+@{
+    //ViewData["Title"] = "Index";
+    ViewData["Title"] = "Reservation";
+}
+
+@*<h1>Index</h1>*@
+<p>
+    <a class="btn-outline-secondary" asp-area="" asp-controller="Home" asp-action="Index">Accueil</a>
+</p>
+<h1>Reservation</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">Créer Une Nouvelle Reservation</a>
+</p>
+<p>
+    @using (Html.BeginForm("Index", "Reservation", FormMethod.Get))
+    {
+        <b>Recherche Par ClientId </b>
+        @*@Html.RadioButton("Recherche Selon","Nom",true) <text>Nom</text>
+    @Html.RadioButton("Recherche Selon","Prenom") <text>Prenom</text>*@ <br />
+        @Html.TextBox("Recherche", "", htmlAttributes: new { @class="w-50 from-control"})
+        <input type="submit" value="Recherche" class="btn btn-success" />
+    }
+</p>
+<table class="table table-striped" border="1">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.IdReservation)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DateDebutLocation)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DateFinLocation)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DateReservation)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PrixLocationParJour)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MarqueVoiture)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EtatReservation)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ClientId)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @if(Model.Count() == 0)
+        {
+            <tr>
+                <td colspan="8" class="text-danger fw-bold"> Cette Reservation N'existe pas</td>
+            </tr>
+        }
+        else
+        {
+        
+foreach (var item in Model) {
+        <tr>
+             <td>
+                @Html.DisplayFor(modelItem => item.IdReservation)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DateDebutLocation)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DateFinLocation)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DateReservation)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PrixLocationParJour)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MarqueVoiture)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EtatReservation)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Client.IdClient)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.IdReservation" class="btn btn-success">Modifier</a> |
+                <a asp-action="Details" asp-route-id="@item.IdReservation" class="btn btn-secondary">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.IdReservation" class="btn btn-danger">Supprimer</a>
+            </td>
+        </tr>
+}
+}
+    </tbody>
+</table>
+<div class="card-footer">
+    <div class="d-flex">
+        <h4>Total Des Reservations : @ViewBag.TotalReservation</h4>
+    </div>
+</div>

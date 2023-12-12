@@ -1,0 +1,75 @@
+﻿@model App.ApplicationCore.Domain.Client
+@{
+    //ViewData["Title"] = "LoginIn";
+    ViewData["Title"] = "Connextion";
+}
+
+<h1>Ecrire Votre Coordonnées</h1>
+
+<div class="container">
+    <div class="d-flex justify-content-center h-100">
+        @*<div class="card">
+            <h3>Sign In</h3>
+            <div class="d-flex justify-content-end social_icon">
+                <span><i class="fab fa-facebook-square"></i></span>
+                <span><i class="fab fa-google-plus-square"></i></span>
+                <span><i class="fab fa-twitter-square"></i></span>
+            </div>
+        </div>*@
+        <div class="card-body">
+            @using(Html.BeginForm("LoginIn","Client",FormMethod.Post))
+            {
+                
+                    if (ViewBag.LoginStatus != null)
+                    {
+                        if (ViewBag.LoginStatus == 0)
+                        {
+                            <div class="alert alert-danger">Veuillez saisir le mot de passe correctement ou créer un nouveau compte</div>
+                        }
+                    }
+               
+
+                <div class="input-group from-group">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text"><i class="fas fa-user"></i></span>
+                    </div>
+                    @Html.TextBoxFor(m=>m.Nom, new{ @class="from-control", @placeholder="Nom"})
+                    @*<input type="text" class="from-control" placeholder="username">*@
+
+                </div>
+                <br />
+                <div class="input-group from-group">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text"><i class="fas fa-key"></i></span>
+                    </div>
+                    @Html.PasswordFor(m=>m.MotDePasse, new{ @class="from-control", @placeholder="MotDePasse"})
+                </div>
+                @*<div class="row-align-items-center remeber">
+                    <input type="checkbox">Remember Me
+                </div>*@
+                <p></p>
+                <br />
+                <div class="from-group">
+                    <input type="submit" value="Connecter" class="btn btn-primary" >
+                    <br />
+                    @*<div class="d-flex justify-content-center links">*@
+                        Pas de compte?<a href="http://localhost:5025/Client/Create">Creer Un Compte</a>
+                    @*</div>*@
+                </div>
+            }
+        </div>
+        <div class="card-footer">
+            @*<div class="d-flex justify-content-center links">
+                Pas de compte?<a href="http://localhost:5025/Client/Create">Creer Un Compte</a>
+            </div>*@
+            <div class="d-flex justify-content-center">
+                <a href="http://localhost:5025/Home/Privacy">Connecter En Tant Que Administrateur</a>
+            </div>
+            <br />
+            <p></p>
+            <h6><span>&#128241; (+216) 96 115 977 </span></h6>
+            <h6><span>&#128231; locationvoituretunisie33@gmail.com </span></h6>
+        </div>
+    </div>
+
+</div>

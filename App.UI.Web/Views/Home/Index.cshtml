@@ -1,0 +1,58 @@
+﻿@{
+    //ViewData["Title"] = "Index";
+    ViewData["Title"] = "Accueil";
+}
+<header>
+    <img src="~/css/Location_SBG.png" alt="Logo Location" style="width: 150px;">
+    @*<h1>@ViewData["Title"]</h1>*@
+</header>
+
+<body>
+<div class="text-center">
+        <h1 class="display-4"><h2>Bienvenue à Notre Page D'accueil</h2></h1><br /><br />
+    @*<p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>*@
+</div><br /><br />
+    <p></p>
+    <br />
+    <br />
+<table class="table">
+        <thead>
+            <tr>
+                <th>
+                    <center>
+                        <a href="http://localhost:5025/Client/Index"><h2>Client</h2></a>
+                        <img src="~/css/client.png" alt="Logo de notre client" style="width: 100px;">
+                        @*<a><h2>Client</h2></a>
+                        <a class="btn btn-success" asp-area="" asp-controller="Client" asp-action="Index">Affichage Des Clients</a><br /><p></p>
+                        <a class="btn btn-primary" asp-area="" asp-controller="Client" asp-action="Create">Ajouter Client</a>*@
+                    </center>
+                </th>
+                <th>
+                    <centre>
+                        <a href="http://localhost:5025/Reservation/Index"><h2>Reservation</h2></a>
+                        <img src="~/css/reservation.png" alt="Logo de notre reservation" style="width: 150px;">
+                    </centre>
+                </th>
+                <th>
+                    <centre>
+                        <a href="http://localhost:5025/Contrat/Index"><h2>Contrat</h2></a>
+                        <img src="~/css/contrat.png" alt="Logo de notre contrat" style="width: 100px;">
+                    </centre>
+                </th>
+                <th>
+                    <centre>
+                        <a href="http://localhost:5025/Voiture/Index"><h2>Voiture</h2></a>
+                        <img src="~/css/voiture.png" alt="Logo de notre voiture" style="width: 100px;">
+                    </centre>
+                </th>
+            </tr>
+            
+        </thead>
+        
+</table>
+        
+            
+        
+    
+
+</body>

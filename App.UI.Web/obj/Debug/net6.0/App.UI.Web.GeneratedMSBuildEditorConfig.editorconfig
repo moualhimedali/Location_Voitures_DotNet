@@ -1,0 +1,141 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = App.UI.Web
+build_property.RootNamespace = App.UI.Web
+build_property.ProjectDir = C:\Users\moual\Desktop\Dali\5eme\stage ingenieure\AppLoacationPhoto\AppLogin\Prototype\App.UI.Web\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\moual\Desktop\Dali\5eme\stage ingenieure\AppLoacationPhoto\AppLogin\Prototype\App.UI.Web
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/moual/Desktop/Dali/5eme/stage ingenieure/AppLoacationPhoto/AppLogin/Prototype/App.UI.Web/Views/Client/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50XENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/moual/Desktop/Dali/5eme/stage ingenieure/AppLoacationPhoto/AppLogin/Prototype/App.UI.Web/Views/Client/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50XERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/moual/Desktop/Dali/5eme/stage ingenieure/AppLoacationPhoto/AppLogin/Prototype/App.UI.Web/Views/Client/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50XERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/moual/Desktop/Dali/5eme/stage ingenieure/AppLoacationPhoto/AppLogin/Prototype/App.UI.Web/Views/Client/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50XEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/moual/Desktop/Dali/5eme/stage ingenieure/AppLoacationPhoto/AppLogin/Prototype/App.UI.Web/Views/Client/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/moual/Desktop/Dali/5eme/stage ingenieure/AppLoacationPhoto/AppLogin/Prototype/App.UI.Web/Views/Client/LoginIn.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50XExvZ2luSW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/moual/Desktop/Dali/5eme/stage ingenieure/AppLoacationPhoto/AppLogin/Prototype/App.UI.Web/Views/Client/MessagePage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50XE1lc3NhZ2VQYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/moual/Desktop/Dali/5eme/stage ingenieure/AppLoacationPhoto/AppLogin/Prototype/App.UI.Web/Views/Client/SuccessPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50XFN1Y2Nlc3NQYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/moual/Desktop/Dali/5eme/stage ingenieure/AppLoacationPhoto/AppLogin/Prototype/App.UI.Web/Views/Contrat/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udHJhdFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/moual/Desktop/Dali/5eme/stage ingenieure/AppLoacationPhoto/AppLogin/Prototype/App.UI.Web/Views/Contrat/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udHJhdFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/moual/Desktop/Dali/5eme/stage ingenieure/AppLoacationPhoto/AppLogin/Prototype/App.UI.Web/Views/Contrat/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udHJhdFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/moual/Desktop/Dali/5eme/stage ingenieure/AppLoacationPhoto/AppLogin/Prototype/App.UI.Web/Views/Contrat/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udHJhdFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/moual/Desktop/Dali/5eme/stage ingenieure/AppLoacationPhoto/AppLogin/Prototype/App.UI.Web/Views/Contrat/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udHJhdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/moual/Desktop/Dali/5eme/stage ingenieure/AppLoacationPhoto/AppLogin/Prototype/App.UI.Web/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/moual/Desktop/Dali/5eme/stage ingenieure/AppLoacationPhoto/AppLogin/Prototype/App.UI.Web/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/moual/Desktop/Dali/5eme/stage ingenieure/AppLoacationPhoto/AppLogin/Prototype/App.UI.Web/Views/Reservation/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YXRpb25cQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/moual/Desktop/Dali/5eme/stage ingenieure/AppLoacationPhoto/AppLogin/Prototype/App.UI.Web/Views/Reservation/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YXRpb25cRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/moual/Desktop/Dali/5eme/stage ingenieure/AppLoacationPhoto/AppLogin/Prototype/App.UI.Web/Views/Reservation/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YXRpb25cRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/moual/Desktop/Dali/5eme/stage ingenieure/AppLoacationPhoto/AppLogin/Prototype/App.UI.Web/Views/Reservation/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YXRpb25cRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/moual/Desktop/Dali/5eme/stage ingenieure/AppLoacationPhoto/AppLogin/Prototype/App.UI.Web/Views/Reservation/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YXRpb25cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/moual/Desktop/Dali/5eme/stage ingenieure/AppLoacationPhoto/AppLogin/Prototype/App.UI.Web/Views/Reservation/MessagePage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YXRpb25cTWVzc2FnZVBhZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/moual/Desktop/Dali/5eme/stage ingenieure/AppLoacationPhoto/AppLogin/Prototype/App.UI.Web/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/moual/Desktop/Dali/5eme/stage ingenieure/AppLoacationPhoto/AppLogin/Prototype/App.UI.Web/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/moual/Desktop/Dali/5eme/stage ingenieure/AppLoacationPhoto/AppLogin/Prototype/App.UI.Web/Views/Voiture/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVm9pdHVyZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/moual/Desktop/Dali/5eme/stage ingenieure/AppLoacationPhoto/AppLogin/Prototype/App.UI.Web/Views/Voiture/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVm9pdHVyZVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/moual/Desktop/Dali/5eme/stage ingenieure/AppLoacationPhoto/AppLogin/Prototype/App.UI.Web/Views/Voiture/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVm9pdHVyZVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/moual/Desktop/Dali/5eme/stage ingenieure/AppLoacationPhoto/AppLogin/Prototype/App.UI.Web/Views/Voiture/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVm9pdHVyZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/moual/Desktop/Dali/5eme/stage ingenieure/AppLoacationPhoto/AppLogin/Prototype/App.UI.Web/Views/Voiture/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVm9pdHVyZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/moual/Desktop/Dali/5eme/stage ingenieure/AppLoacationPhoto/AppLogin/Prototype/App.UI.Web/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/moual/Desktop/Dali/5eme/stage ingenieure/AppLoacationPhoto/AppLogin/Prototype/App.UI.Web/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/moual/Desktop/Dali/5eme/stage ingenieure/AppLoacationPhoto/AppLogin/Prototype/App.UI.Web/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-i2bhdj9tv6

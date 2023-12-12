@@ -1,0 +1,103 @@
+﻿@model IEnumerable<App.ApplicationCore.Domain.Contrat>
+
+@{
+    //ViewData["Title"] = "Index";
+    ViewData["Title"] = "Contrat";
+}
+
+@*<h1>Index</h1>*@
+<p>
+    <a class="btn-outline-secondary" asp-area="" asp-controller="Home" asp-action="Index">Accueil</a>
+</p>
+
+<h1>Contrat</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">Créer Un Nouveau Contrat</a>
+</p>
+
+<p>
+    @using (Html.BeginForm("Index", "Contrat", FormMethod.Get))
+    {
+        <b>Recherche Par Reservation </b>
+        @*@Html.RadioButton("Recherche Selon","Nom",true) <text>Nom</text>
+        @Html.RadioButton("Recherche Selon","Prenom") <text>Prenom</text>*@ <br />
+        @Html.TextBox("Recherche", "", htmlAttributes: new { @class="w-50 from-control"})
+        <input type="submit" value="Recherche" class="btn btn-success" />   
+    }
+</p>
+
+<table class="table table-striped" border="1">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.NumeroContrat)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DateDebutContrat)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DateFinContrat)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NombreJoursLocation)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Reservation)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Voiture)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @if(Model.Count() == 0)
+        {
+            <tr>
+                <td colspan="6" class="text-danger fw-bold"> Ce Contrat N'existe pas</td>
+            </tr>
+        }
+        else
+        {
+        foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.NumeroContrat)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DateDebutContrat)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DateFinContrat)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NombreJoursLocation)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Reservation.IdReservation)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Voiture.Matricule)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.NumeroContrat" class="btn btn-success">Modifier</a> |
+                <a asp-action="Details" asp-route-id="@item.NumeroContrat" class="btn btn-secondary">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.NumeroContrat" class="btn btn-danger">Supprimer</a>
+            </td>
+        </tr>
+}
+}
+    </tbody>
+</table>
+<div class="card-footer">
+    <div class="d-flex">
+        <h4>Total Des Contrats : @ViewBag.TotalContrat</h4>
+    </div>
+</div>
+<div class="card-footer">
+    <div class="d-flex">
+        <h4>Total Prix De Location  : @ViewBag.TotalePrixLocation</h4>
+    </div>
+</div>
+

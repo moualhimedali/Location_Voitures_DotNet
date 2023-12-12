@@ -1,0 +1,116 @@
+﻿@model IEnumerable<App.ApplicationCore.Domain.Client>
+
+@{
+    //ViewData["Title"] = "Index";
+    ViewData["Title"] = "Client";
+}
+
+@*<h1>Index</h1>*@
+<p>
+    <a class="btn-outline-secondary" asp-area="" asp-controller="Home" asp-action="Index">Accueil</a>
+</p>
+<h1>Client</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">Créer Un Nouveau Client</a>
+</p>
+<p>
+    @using(Html.BeginForm("Index","Client", FormMethod.Get))
+    {
+        <b>Recherche Par Nom </b>
+        @*@Html.RadioButton("Recherche Selon","Nom",true) <text>Nom</text>
+        @Html.RadioButton("Recherche Selon","Prenom") <text>Prenom</text>*@ <br />
+        @Html.TextBox("Recherche", "", htmlAttributes: new { @class="w-50 from-control"})
+        <input type="submit" value="Recherche" class="btn btn-success" />
+    }
+</p>
+<table class="table table-striped" border="1">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.IdClient)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Nom)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Prenom)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NumeroTelephone)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DateNaissance)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Photo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PermisConduire)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Email)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MotDePasse)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @if(Model.Count() == 0)
+        {
+            <tr>
+                <td colspan="9" class="text-danger fw-bold"> Ce Client N'existe pas</td>
+            </tr>
+        }
+        else
+        {
+            
+        
+
+        foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdClient)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nom)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Prenom)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NumeroTelephone)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DateNaissance)
+            </td>
+            <td>
+                @*@Html.DisplayFor(model => item.Photo)*@
+                <img src="~/images/@item.Photo" width="50" height="50">
+            </td>
+            <td>
+                @Html.DisplayFor(model => item.PermisConduire)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Email)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MotDePasse)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.IdClient" class="btn btn-success">Modifier</a> |
+                <a asp-action="Details" asp-route-id="@item.IdClient" class="btn btn-secondary">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.IdClient" class="btn btn-danger">Supprimer</a>
+            </td>
+        </tr>
+}
+}
+    </tbody>
+</table>
+<div class="card-footer">
+    <div class="d-flex">
+        <h4>Total Des Clients : @ViewBag.TotalClient</h4>
+    </div>
+</div>

@@ -1,0 +1,77 @@
+﻿@{
+    //ViewData["Title"] = "Privacy";
+    ViewData["Title"] = "Administrateur";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Administrateur</title>
+</head>
+<body>
+    <h1>Connecter En Tant Que Administrateur</h1>
+    <p></p>
+    <br />
+    <form id="loginForm" action="votre_action_de_traitement" method="post">
+        <label for="username"><h5>Nom Administrateur</h5></label><br />
+        <input type="text" id="username" name="username" required placeholder="------">
+        <br />
+        <p></p>
+        <br />
+        <label for="password"><h5>Mot De Passe Administrateur</h5></label><br />
+        <input type="password" id="password" name="password" required placeholder="------">
+        <br />
+        <p></p>
+        <br />
+        <button type="submit" asp-area="" asp-controller="Home" asp-action="Index" class="btn-primary">Connecter</button>
+        @*<a class="btn btn-primary" asp-area="" asp-controller="Home" asp-action="Index">Connecter</a>*@
+    </form>
+
+    <script>
+        document.getElementById("loginForm").addEventListener("submit", function (event) {
+            var usernameField = document.getElementById("username");
+            var passwordField = document.getElementById("password");
+
+            if (usernameField.value.trim() != "admin" || passwordField.value.trim() != "admin") {
+                event.preventDefault(); // Empêche l'envoi du formulaire
+                alert("Veuillez Verifier Tous Les Champs.");
+            }
+        });
+    </script>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@*<h1>@ViewData["Title"]</h1>
+
+<p>Use this page to detail your site's privacy policy.</p>*@
+
+
+@*<h1>LoginIn</h1>*@
+

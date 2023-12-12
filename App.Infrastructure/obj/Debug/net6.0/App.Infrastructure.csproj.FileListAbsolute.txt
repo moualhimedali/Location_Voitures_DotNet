@@ -1,0 +1,323 @@
+C:\Users\moual\Desktop\hamaApp\Prototype\App\App.Infrastructure\bin\Debug\net6.0\App.Infrastructure.deps.json
+C:\Users\moual\Desktop\hamaApp\Prototype\App\App.Infrastructure\bin\Debug\net6.0\App.Infrastructure.runtimeconfig.json
+C:\Users\moual\Desktop\hamaApp\Prototype\App\App.Infrastructure\bin\Debug\net6.0\App.Infrastructure.dll
+C:\Users\moual\Desktop\hamaApp\Prototype\App\App.Infrastructure\bin\Debug\net6.0\App.Infrastructure.pdb
+C:\Users\moual\Desktop\hamaApp\Prototype\App\App.Infrastructure\bin\Debug\net6.0\App.ApplicationCore.dll
+C:\Users\moual\Desktop\hamaApp\Prototype\App\App.Infrastructure\bin\Debug\net6.0\App.ApplicationCore.pdb
+C:\Users\moual\Desktop\hamaApp\Prototype\App\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\moual\Desktop\hamaApp\Prototype\App\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moual\Desktop\hamaApp\Prototype\App\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\moual\Desktop\hamaApp\Prototype\App\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.AssemblyInfo.cs
+C:\Users\moual\Desktop\hamaApp\Prototype\App\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\moual\Desktop\hamaApp\Prototype\App\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.csproj.CopyComplete
+C:\Users\moual\Desktop\hamaApp\Prototype\App\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.dll
+C:\Users\moual\Desktop\hamaApp\Prototype\App\App.Infrastructure\obj\Debug\net6.0\refint\App.Infrastructure.dll
+C:\Users\moual\Desktop\hamaApp\Prototype\App\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.pdb
+C:\Users\moual\Desktop\hamaApp\Prototype\App\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.genruntimeconfig.cache
+C:\Users\moual\Desktop\hamaApp\Prototype\App\App.Infrastructure\obj\Debug\net6.0\ref\App.Infrastructure.dll
+C:\Users\moual\Desktop\bbbb\Prototype\App\App.Infrastructure\bin\Debug\net6.0\App.Infrastructure.deps.json
+C:\Users\moual\Desktop\bbbb\Prototype\App\App.Infrastructure\bin\Debug\net6.0\App.Infrastructure.runtimeconfig.json
+C:\Users\moual\Desktop\bbbb\Prototype\App\App.Infrastructure\bin\Debug\net6.0\App.Infrastructure.dll
+C:\Users\moual\Desktop\bbbb\Prototype\App\App.Infrastructure\bin\Debug\net6.0\App.Infrastructure.pdb
+C:\Users\moual\Desktop\bbbb\Prototype\App\App.Infrastructure\bin\Debug\net6.0\App.ApplicationCore.dll
+C:\Users\moual\Desktop\bbbb\Prototype\App\App.Infrastructure\bin\Debug\net6.0\App.ApplicationCore.pdb
+C:\Users\moual\Desktop\bbbb\Prototype\App\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\moual\Desktop\bbbb\Prototype\App\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moual\Desktop\bbbb\Prototype\App\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\moual\Desktop\bbbb\Prototype\App\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.AssemblyInfo.cs
+C:\Users\moual\Desktop\bbbb\Prototype\App\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\moual\Desktop\bbbb\Prototype\App\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.csproj.CopyComplete
+C:\Users\moual\Desktop\bbbb\Prototype\App\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.dll
+C:\Users\moual\Desktop\bbbb\Prototype\App\App.Infrastructure\obj\Debug\net6.0\refint\App.Infrastructure.dll
+C:\Users\moual\Desktop\bbbb\Prototype\App\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.pdb
+C:\Users\moual\Desktop\bbbb\Prototype\App\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.genruntimeconfig.cache
+C:\Users\moual\Desktop\bbbb\Prototype\App\App.Infrastructure\obj\Debug\net6.0\ref\App.Infrastructure.dll
+C:\Users\moual\Desktop\AppMrigla\Prototype\App\App.Infrastructure\bin\Debug\net6.0\App.Infrastructure.deps.json
+C:\Users\moual\Desktop\AppMrigla\Prototype\App\App.Infrastructure\bin\Debug\net6.0\App.Infrastructure.runtimeconfig.json
+C:\Users\moual\Desktop\AppMrigla\Prototype\App\App.Infrastructure\bin\Debug\net6.0\App.Infrastructure.dll
+C:\Users\moual\Desktop\AppMrigla\Prototype\App\App.Infrastructure\bin\Debug\net6.0\App.Infrastructure.pdb
+C:\Users\moual\Desktop\AppMrigla\Prototype\App\App.Infrastructure\bin\Debug\net6.0\App.ApplicationCore.dll
+C:\Users\moual\Desktop\AppMrigla\Prototype\App\App.Infrastructure\bin\Debug\net6.0\App.ApplicationCore.pdb
+C:\Users\moual\Desktop\AppMrigla\Prototype\App\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\moual\Desktop\AppMrigla\Prototype\App\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moual\Desktop\AppMrigla\Prototype\App\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\moual\Desktop\AppMrigla\Prototype\App\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.AssemblyInfo.cs
+C:\Users\moual\Desktop\AppMrigla\Prototype\App\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\moual\Desktop\AppMrigla\Prototype\App\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.csproj.CopyComplete
+C:\Users\moual\Desktop\AppMrigla\Prototype\App\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.dll
+C:\Users\moual\Desktop\AppMrigla\Prototype\App\App.Infrastructure\obj\Debug\net6.0\refint\App.Infrastructure.dll
+C:\Users\moual\Desktop\AppMrigla\Prototype\App\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.pdb
+C:\Users\moual\Desktop\AppMrigla\Prototype\App\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.genruntimeconfig.cache
+C:\Users\moual\Desktop\AppMrigla\Prototype\App\App.Infrastructure\obj\Debug\net6.0\ref\App.Infrastructure.dll
+C:\Users\moual\Desktop\daliapp\AppMrigla\Prototype\App\App.Infrastructure\bin\Debug\net6.0\App.Infrastructure.deps.json
+C:\Users\moual\Desktop\daliapp\AppMrigla\Prototype\App\App.Infrastructure\bin\Debug\net6.0\App.Infrastructure.runtimeconfig.json
+C:\Users\moual\Desktop\daliapp\AppMrigla\Prototype\App\App.Infrastructure\bin\Debug\net6.0\App.Infrastructure.dll
+C:\Users\moual\Desktop\daliapp\AppMrigla\Prototype\App\App.Infrastructure\bin\Debug\net6.0\App.Infrastructure.pdb
+C:\Users\moual\Desktop\daliapp\AppMrigla\Prototype\App\App.Infrastructure\bin\Debug\net6.0\App.ApplicationCore.dll
+C:\Users\moual\Desktop\daliapp\AppMrigla\Prototype\App\App.Infrastructure\bin\Debug\net6.0\App.ApplicationCore.pdb
+C:\Users\moual\Desktop\daliapp\AppMrigla\Prototype\App\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\moual\Desktop\daliapp\AppMrigla\Prototype\App\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moual\Desktop\daliapp\AppMrigla\Prototype\App\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\moual\Desktop\daliapp\AppMrigla\Prototype\App\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.AssemblyInfo.cs
+C:\Users\moual\Desktop\daliapp\AppMrigla\Prototype\App\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\moual\Desktop\daliapp\AppMrigla\Prototype\App\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.csproj.CopyComplete
+C:\Users\moual\Desktop\daliapp\AppMrigla\Prototype\App\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.dll
+C:\Users\moual\Desktop\daliapp\AppMrigla\Prototype\App\App.Infrastructure\obj\Debug\net6.0\refint\App.Infrastructure.dll
+C:\Users\moual\Desktop\daliapp\AppMrigla\Prototype\App\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.pdb
+C:\Users\moual\Desktop\daliapp\AppMrigla\Prototype\App\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.genruntimeconfig.cache
+C:\Users\moual\Desktop\daliapp\AppMrigla\Prototype\App\App.Infrastructure\obj\Debug\net6.0\ref\App.Infrastructure.dll
+C:\Users\moual\Desktop\HamHoum\AppMrigla\Prototype\App\App.Infrastructure\bin\Debug\net6.0\App.Infrastructure.deps.json
+C:\Users\moual\Desktop\HamHoum\AppMrigla\Prototype\App\App.Infrastructure\bin\Debug\net6.0\App.Infrastructure.runtimeconfig.json
+C:\Users\moual\Desktop\HamHoum\AppMrigla\Prototype\App\App.Infrastructure\bin\Debug\net6.0\App.Infrastructure.dll
+C:\Users\moual\Desktop\HamHoum\AppMrigla\Prototype\App\App.Infrastructure\bin\Debug\net6.0\App.Infrastructure.pdb
+C:\Users\moual\Desktop\HamHoum\AppMrigla\Prototype\App\App.Infrastructure\bin\Debug\net6.0\App.ApplicationCore.dll
+C:\Users\moual\Desktop\HamHoum\AppMrigla\Prototype\App\App.Infrastructure\bin\Debug\net6.0\App.ApplicationCore.pdb
+C:\Users\moual\Desktop\HamHoum\AppMrigla\Prototype\App\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\moual\Desktop\HamHoum\AppMrigla\Prototype\App\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moual\Desktop\HamHoum\AppMrigla\Prototype\App\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\moual\Desktop\HamHoum\AppMrigla\Prototype\App\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.AssemblyInfo.cs
+C:\Users\moual\Desktop\HamHoum\AppMrigla\Prototype\App\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\moual\Desktop\HamHoum\AppMrigla\Prototype\App\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.csproj.CopyComplete
+C:\Users\moual\Desktop\HamHoum\AppMrigla\Prototype\App\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.dll
+C:\Users\moual\Desktop\HamHoum\AppMrigla\Prototype\App\App.Infrastructure\obj\Debug\net6.0\refint\App.Infrastructure.dll
+C:\Users\moual\Desktop\HamHoum\AppMrigla\Prototype\App\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.pdb
+C:\Users\moual\Desktop\HamHoum\AppMrigla\Prototype\App\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.genruntimeconfig.cache
+C:\Users\moual\Desktop\HamHoum\AppMrigla\Prototype\App\App.Infrastructure\obj\Debug\net6.0\ref\App.Infrastructure.dll
+C:\Users\moual\Desktop\stage ingenieure\HamHoumApp\Prototype\App.Infrastructure\bin\Debug\net6.0\App.Infrastructure.deps.json
+C:\Users\moual\Desktop\stage ingenieure\HamHoumApp\Prototype\App.Infrastructure\bin\Debug\net6.0\App.Infrastructure.runtimeconfig.json
+C:\Users\moual\Desktop\stage ingenieure\HamHoumApp\Prototype\App.Infrastructure\bin\Debug\net6.0\App.Infrastructure.dll
+C:\Users\moual\Desktop\stage ingenieure\HamHoumApp\Prototype\App.Infrastructure\bin\Debug\net6.0\App.Infrastructure.pdb
+C:\Users\moual\Desktop\stage ingenieure\HamHoumApp\Prototype\App.Infrastructure\bin\Debug\net6.0\App.ApplicationCore.dll
+C:\Users\moual\Desktop\stage ingenieure\HamHoumApp\Prototype\App.Infrastructure\bin\Debug\net6.0\App.ApplicationCore.pdb
+C:\Users\moual\Desktop\stage ingenieure\HamHoumApp\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\moual\Desktop\stage ingenieure\HamHoumApp\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moual\Desktop\stage ingenieure\HamHoumApp\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\moual\Desktop\stage ingenieure\HamHoumApp\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.AssemblyInfo.cs
+C:\Users\moual\Desktop\stage ingenieure\HamHoumApp\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\moual\Desktop\stage ingenieure\HamHoumApp\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.csproj.CopyComplete
+C:\Users\moual\Desktop\stage ingenieure\HamHoumApp\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.dll
+C:\Users\moual\Desktop\stage ingenieure\HamHoumApp\Prototype\App.Infrastructure\obj\Debug\net6.0\refint\App.Infrastructure.dll
+C:\Users\moual\Desktop\stage ingenieure\HamHoumApp\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.pdb
+C:\Users\moual\Desktop\stage ingenieure\HamHoumApp\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.genruntimeconfig.cache
+C:\Users\moual\Desktop\stage ingenieure\HamHoumApp\Prototype\App.Infrastructure\obj\Debug\net6.0\ref\App.Infrastructure.dll
+C:\Users\moual\Desktop\HamaAppNsala7\Prototype\App.Infrastructure\bin\Debug\net6.0\App.Infrastructure.deps.json
+C:\Users\moual\Desktop\HamaAppNsala7\Prototype\App.Infrastructure\bin\Debug\net6.0\App.Infrastructure.runtimeconfig.json
+C:\Users\moual\Desktop\HamaAppNsala7\Prototype\App.Infrastructure\bin\Debug\net6.0\App.Infrastructure.dll
+C:\Users\moual\Desktop\HamaAppNsala7\Prototype\App.Infrastructure\bin\Debug\net6.0\App.Infrastructure.pdb
+C:\Users\moual\Desktop\HamaAppNsala7\Prototype\App.Infrastructure\bin\Debug\net6.0\App.ApplicationCore.dll
+C:\Users\moual\Desktop\HamaAppNsala7\Prototype\App.Infrastructure\bin\Debug\net6.0\App.ApplicationCore.pdb
+C:\Users\moual\Desktop\HamaAppNsala7\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\moual\Desktop\HamaAppNsala7\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moual\Desktop\HamaAppNsala7\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\moual\Desktop\HamaAppNsala7\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.AssemblyInfo.cs
+C:\Users\moual\Desktop\HamaAppNsala7\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\moual\Desktop\HamaAppNsala7\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.csproj.CopyComplete
+C:\Users\moual\Desktop\HamaAppNsala7\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.dll
+C:\Users\moual\Desktop\HamaAppNsala7\Prototype\App.Infrastructure\obj\Debug\net6.0\refint\App.Infrastructure.dll
+C:\Users\moual\Desktop\HamaAppNsala7\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.pdb
+C:\Users\moual\Desktop\HamaAppNsala7\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.genruntimeconfig.cache
+C:\Users\moual\Desktop\HamaAppNsala7\Prototype\App.Infrastructure\obj\Debug\net6.0\ref\App.Infrastructure.dll
+C:\Users\moual\Desktop\stage ingenieure\HamaAppNsala7\Prototype\App.Infrastructure\bin\Debug\net6.0\App.Infrastructure.deps.json
+C:\Users\moual\Desktop\stage ingenieure\HamaAppNsala7\Prototype\App.Infrastructure\bin\Debug\net6.0\App.Infrastructure.runtimeconfig.json
+C:\Users\moual\Desktop\stage ingenieure\HamaAppNsala7\Prototype\App.Infrastructure\bin\Debug\net6.0\App.Infrastructure.dll
+C:\Users\moual\Desktop\stage ingenieure\HamaAppNsala7\Prototype\App.Infrastructure\bin\Debug\net6.0\App.Infrastructure.pdb
+C:\Users\moual\Desktop\stage ingenieure\HamaAppNsala7\Prototype\App.Infrastructure\bin\Debug\net6.0\App.ApplicationCore.dll
+C:\Users\moual\Desktop\stage ingenieure\HamaAppNsala7\Prototype\App.Infrastructure\bin\Debug\net6.0\App.ApplicationCore.pdb
+C:\Users\moual\Desktop\stage ingenieure\HamaAppNsala7\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\moual\Desktop\stage ingenieure\HamaAppNsala7\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moual\Desktop\stage ingenieure\HamaAppNsala7\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\moual\Desktop\stage ingenieure\HamaAppNsala7\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.AssemblyInfo.cs
+C:\Users\moual\Desktop\stage ingenieure\HamaAppNsala7\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\moual\Desktop\stage ingenieure\HamaAppNsala7\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.csproj.CopyComplete
+C:\Users\moual\Desktop\stage ingenieure\HamaAppNsala7\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.dll
+C:\Users\moual\Desktop\stage ingenieure\HamaAppNsala7\Prototype\App.Infrastructure\obj\Debug\net6.0\refint\App.Infrastructure.dll
+C:\Users\moual\Desktop\stage ingenieure\HamaAppNsala7\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.pdb
+C:\Users\moual\Desktop\stage ingenieure\HamaAppNsala7\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.genruntimeconfig.cache
+C:\Users\moual\Desktop\stage ingenieure\HamaAppNsala7\Prototype\App.Infrastructure\obj\Debug\net6.0\ref\App.Infrastructure.dll
+C:\Users\moual\Desktop\AppLogin\Prototype\App.Infrastructure\bin\Debug\net6.0\App.Infrastructure.deps.json
+C:\Users\moual\Desktop\AppLogin\Prototype\App.Infrastructure\bin\Debug\net6.0\App.Infrastructure.runtimeconfig.json
+C:\Users\moual\Desktop\AppLogin\Prototype\App.Infrastructure\bin\Debug\net6.0\App.Infrastructure.dll
+C:\Users\moual\Desktop\AppLogin\Prototype\App.Infrastructure\bin\Debug\net6.0\App.Infrastructure.pdb
+C:\Users\moual\Desktop\AppLogin\Prototype\App.Infrastructure\bin\Debug\net6.0\App.ApplicationCore.dll
+C:\Users\moual\Desktop\AppLogin\Prototype\App.Infrastructure\bin\Debug\net6.0\App.ApplicationCore.pdb
+C:\Users\moual\Desktop\AppLogin\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\moual\Desktop\AppLogin\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moual\Desktop\AppLogin\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\moual\Desktop\AppLogin\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.AssemblyInfo.cs
+C:\Users\moual\Desktop\AppLogin\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\moual\Desktop\AppLogin\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.csproj.CopyComplete
+C:\Users\moual\Desktop\AppLogin\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.dll
+C:\Users\moual\Desktop\AppLogin\Prototype\App.Infrastructure\obj\Debug\net6.0\refint\App.Infrastructure.dll
+C:\Users\moual\Desktop\AppLogin\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.pdb
+C:\Users\moual\Desktop\AppLogin\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.genruntimeconfig.cache
+C:\Users\moual\Desktop\AppLogin\Prototype\App.Infrastructure\obj\Debug\net6.0\ref\App.Infrastructure.dll
+C:\Users\moual\Desktop\DaliAppLogin\AppLogin\Prototype\App.Infrastructure\bin\Debug\net6.0\App.Infrastructure.deps.json
+C:\Users\moual\Desktop\DaliAppLogin\AppLogin\Prototype\App.Infrastructure\bin\Debug\net6.0\App.Infrastructure.runtimeconfig.json
+C:\Users\moual\Desktop\DaliAppLogin\AppLogin\Prototype\App.Infrastructure\bin\Debug\net6.0\App.Infrastructure.dll
+C:\Users\moual\Desktop\DaliAppLogin\AppLogin\Prototype\App.Infrastructure\bin\Debug\net6.0\App.Infrastructure.pdb
+C:\Users\moual\Desktop\DaliAppLogin\AppLogin\Prototype\App.Infrastructure\bin\Debug\net6.0\App.ApplicationCore.dll
+C:\Users\moual\Desktop\DaliAppLogin\AppLogin\Prototype\App.Infrastructure\bin\Debug\net6.0\App.ApplicationCore.pdb
+C:\Users\moual\Desktop\DaliAppLogin\AppLogin\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\moual\Desktop\DaliAppLogin\AppLogin\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moual\Desktop\DaliAppLogin\AppLogin\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\moual\Desktop\DaliAppLogin\AppLogin\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.AssemblyInfo.cs
+C:\Users\moual\Desktop\DaliAppLogin\AppLogin\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\moual\Desktop\DaliAppLogin\AppLogin\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.csproj.CopyComplete
+C:\Users\moual\Desktop\DaliAppLogin\AppLogin\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.dll
+C:\Users\moual\Desktop\DaliAppLogin\AppLogin\Prototype\App.Infrastructure\obj\Debug\net6.0\refint\App.Infrastructure.dll
+C:\Users\moual\Desktop\DaliAppLogin\AppLogin\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.pdb
+C:\Users\moual\Desktop\DaliAppLogin\AppLogin\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.genruntimeconfig.cache
+C:\Users\moual\Desktop\DaliAppLogin\AppLogin\Prototype\App.Infrastructure\obj\Debug\net6.0\ref\App.Infrastructure.dll
+C:\Users\moual\Desktop\stage ingenieure\DaliAppLogin\AppLogin\Prototype\App.Infrastructure\bin\Debug\net6.0\App.Infrastructure.deps.json
+C:\Users\moual\Desktop\stage ingenieure\DaliAppLogin\AppLogin\Prototype\App.Infrastructure\bin\Debug\net6.0\App.Infrastructure.runtimeconfig.json
+C:\Users\moual\Desktop\stage ingenieure\DaliAppLogin\AppLogin\Prototype\App.Infrastructure\bin\Debug\net6.0\App.Infrastructure.dll
+C:\Users\moual\Desktop\stage ingenieure\DaliAppLogin\AppLogin\Prototype\App.Infrastructure\bin\Debug\net6.0\App.Infrastructure.pdb
+C:\Users\moual\Desktop\stage ingenieure\DaliAppLogin\AppLogin\Prototype\App.Infrastructure\bin\Debug\net6.0\App.ApplicationCore.dll
+C:\Users\moual\Desktop\stage ingenieure\DaliAppLogin\AppLogin\Prototype\App.Infrastructure\bin\Debug\net6.0\App.ApplicationCore.pdb
+C:\Users\moual\Desktop\stage ingenieure\DaliAppLogin\AppLogin\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\moual\Desktop\stage ingenieure\DaliAppLogin\AppLogin\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moual\Desktop\stage ingenieure\DaliAppLogin\AppLogin\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\moual\Desktop\stage ingenieure\DaliAppLogin\AppLogin\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.AssemblyInfo.cs
+C:\Users\moual\Desktop\stage ingenieure\DaliAppLogin\AppLogin\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\moual\Desktop\stage ingenieure\DaliAppLogin\AppLogin\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.csproj.CopyComplete
+C:\Users\moual\Desktop\stage ingenieure\DaliAppLogin\AppLogin\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.dll
+C:\Users\moual\Desktop\stage ingenieure\DaliAppLogin\AppLogin\Prototype\App.Infrastructure\obj\Debug\net6.0\refint\App.Infrastructure.dll
+C:\Users\moual\Desktop\stage ingenieure\DaliAppLogin\AppLogin\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.pdb
+C:\Users\moual\Desktop\stage ingenieure\DaliAppLogin\AppLogin\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.genruntimeconfig.cache
+C:\Users\moual\Desktop\stage ingenieure\DaliAppLogin\AppLogin\Prototype\App.Infrastructure\obj\Debug\net6.0\ref\App.Infrastructure.dll
+C:\Users\moual\Desktop\AppLogin\AppLogin\Prototype\App.Infrastructure\bin\Debug\net6.0\App.Infrastructure.deps.json
+C:\Users\moual\Desktop\AppLogin\AppLogin\Prototype\App.Infrastructure\bin\Debug\net6.0\App.Infrastructure.runtimeconfig.json
+C:\Users\moual\Desktop\AppLogin\AppLogin\Prototype\App.Infrastructure\bin\Debug\net6.0\App.Infrastructure.dll
+C:\Users\moual\Desktop\AppLogin\AppLogin\Prototype\App.Infrastructure\bin\Debug\net6.0\App.Infrastructure.pdb
+C:\Users\moual\Desktop\AppLogin\AppLogin\Prototype\App.Infrastructure\bin\Debug\net6.0\App.ApplicationCore.dll
+C:\Users\moual\Desktop\AppLogin\AppLogin\Prototype\App.Infrastructure\bin\Debug\net6.0\App.ApplicationCore.pdb
+C:\Users\moual\Desktop\AppLogin\AppLogin\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\moual\Desktop\AppLogin\AppLogin\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moual\Desktop\AppLogin\AppLogin\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\moual\Desktop\AppLogin\AppLogin\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.AssemblyInfo.cs
+C:\Users\moual\Desktop\AppLogin\AppLogin\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\moual\Desktop\AppLogin\AppLogin\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.csproj.CopyComplete
+C:\Users\moual\Desktop\AppLogin\AppLogin\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.dll
+C:\Users\moual\Desktop\AppLogin\AppLogin\Prototype\App.Infrastructure\obj\Debug\net6.0\refint\App.Infrastructure.dll
+C:\Users\moual\Desktop\AppLogin\AppLogin\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.pdb
+C:\Users\moual\Desktop\AppLogin\AppLogin\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.genruntimeconfig.cache
+C:\Users\moual\Desktop\AppLogin\AppLogin\Prototype\App.Infrastructure\obj\Debug\net6.0\ref\App.Infrastructure.dll
+C:\Users\moual\Desktop\stage ingenieure\AppLogin\AppLogin\Prototype\App.Infrastructure\bin\Debug\net6.0\App.Infrastructure.deps.json
+C:\Users\moual\Desktop\stage ingenieure\AppLogin\AppLogin\Prototype\App.Infrastructure\bin\Debug\net6.0\App.Infrastructure.runtimeconfig.json
+C:\Users\moual\Desktop\stage ingenieure\AppLogin\AppLogin\Prototype\App.Infrastructure\bin\Debug\net6.0\App.Infrastructure.dll
+C:\Users\moual\Desktop\stage ingenieure\AppLogin\AppLogin\Prototype\App.Infrastructure\bin\Debug\net6.0\App.Infrastructure.pdb
+C:\Users\moual\Desktop\stage ingenieure\AppLogin\AppLogin\Prototype\App.Infrastructure\bin\Debug\net6.0\App.ApplicationCore.dll
+C:\Users\moual\Desktop\stage ingenieure\AppLogin\AppLogin\Prototype\App.Infrastructure\bin\Debug\net6.0\App.ApplicationCore.pdb
+C:\Users\moual\Desktop\stage ingenieure\AppLogin\AppLogin\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\moual\Desktop\stage ingenieure\AppLogin\AppLogin\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moual\Desktop\stage ingenieure\AppLogin\AppLogin\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\moual\Desktop\stage ingenieure\AppLogin\AppLogin\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.AssemblyInfo.cs
+C:\Users\moual\Desktop\stage ingenieure\AppLogin\AppLogin\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\moual\Desktop\stage ingenieure\AppLogin\AppLogin\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.csproj.CopyComplete
+C:\Users\moual\Desktop\stage ingenieure\AppLogin\AppLogin\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.dll
+C:\Users\moual\Desktop\stage ingenieure\AppLogin\AppLogin\Prototype\App.Infrastructure\obj\Debug\net6.0\refint\App.Infrastructure.dll
+C:\Users\moual\Desktop\stage ingenieure\AppLogin\AppLogin\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.pdb
+C:\Users\moual\Desktop\stage ingenieure\AppLogin\AppLogin\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.genruntimeconfig.cache
+C:\Users\moual\Desktop\stage ingenieure\AppLogin\AppLogin\Prototype\App.Infrastructure\obj\Debug\net6.0\ref\App.Infrastructure.dll
+C:\Users\moual\Desktop\stage ingenieure\DaliLogin\AppLogin\Prototype\App.Infrastructure\bin\Debug\net6.0\App.Infrastructure.deps.json
+C:\Users\moual\Desktop\stage ingenieure\DaliLogin\AppLogin\Prototype\App.Infrastructure\bin\Debug\net6.0\App.Infrastructure.runtimeconfig.json
+C:\Users\moual\Desktop\stage ingenieure\DaliLogin\AppLogin\Prototype\App.Infrastructure\bin\Debug\net6.0\App.Infrastructure.dll
+C:\Users\moual\Desktop\stage ingenieure\DaliLogin\AppLogin\Prototype\App.Infrastructure\bin\Debug\net6.0\App.Infrastructure.pdb
+C:\Users\moual\Desktop\stage ingenieure\DaliLogin\AppLogin\Prototype\App.Infrastructure\bin\Debug\net6.0\App.ApplicationCore.dll
+C:\Users\moual\Desktop\stage ingenieure\DaliLogin\AppLogin\Prototype\App.Infrastructure\bin\Debug\net6.0\App.ApplicationCore.pdb
+C:\Users\moual\Desktop\stage ingenieure\DaliLogin\AppLogin\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\moual\Desktop\stage ingenieure\DaliLogin\AppLogin\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moual\Desktop\stage ingenieure\DaliLogin\AppLogin\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\moual\Desktop\stage ingenieure\DaliLogin\AppLogin\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.AssemblyInfo.cs
+C:\Users\moual\Desktop\stage ingenieure\DaliLogin\AppLogin\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\moual\Desktop\stage ingenieure\DaliLogin\AppLogin\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.csproj.CopyComplete
+C:\Users\moual\Desktop\stage ingenieure\DaliLogin\AppLogin\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.dll
+C:\Users\moual\Desktop\stage ingenieure\DaliLogin\AppLogin\Prototype\App.Infrastructure\obj\Debug\net6.0\refint\App.Infrastructure.dll
+C:\Users\moual\Desktop\stage ingenieure\DaliLogin\AppLogin\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.pdb
+C:\Users\moual\Desktop\stage ingenieure\DaliLogin\AppLogin\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.genruntimeconfig.cache
+C:\Users\moual\Desktop\stage ingenieure\DaliLogin\AppLogin\Prototype\App.Infrastructure\obj\Debug\net6.0\ref\App.Infrastructure.dll
+C:\Users\moual\Desktop\AppLoacation\AppLogin\Prototype\App.Infrastructure\bin\Debug\net6.0\App.Infrastructure.deps.json
+C:\Users\moual\Desktop\AppLoacation\AppLogin\Prototype\App.Infrastructure\bin\Debug\net6.0\App.Infrastructure.runtimeconfig.json
+C:\Users\moual\Desktop\AppLoacation\AppLogin\Prototype\App.Infrastructure\bin\Debug\net6.0\App.Infrastructure.dll
+C:\Users\moual\Desktop\AppLoacation\AppLogin\Prototype\App.Infrastructure\bin\Debug\net6.0\App.Infrastructure.pdb
+C:\Users\moual\Desktop\AppLoacation\AppLogin\Prototype\App.Infrastructure\bin\Debug\net6.0\App.ApplicationCore.dll
+C:\Users\moual\Desktop\AppLoacation\AppLogin\Prototype\App.Infrastructure\bin\Debug\net6.0\App.ApplicationCore.pdb
+C:\Users\moual\Desktop\AppLoacation\AppLogin\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\moual\Desktop\AppLoacation\AppLogin\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moual\Desktop\AppLoacation\AppLogin\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\moual\Desktop\AppLoacation\AppLogin\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.AssemblyInfo.cs
+C:\Users\moual\Desktop\AppLoacation\AppLogin\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\moual\Desktop\AppLoacation\AppLogin\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.csproj.CopyComplete
+C:\Users\moual\Desktop\AppLoacation\AppLogin\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.dll
+C:\Users\moual\Desktop\AppLoacation\AppLogin\Prototype\App.Infrastructure\obj\Debug\net6.0\refint\App.Infrastructure.dll
+C:\Users\moual\Desktop\AppLoacation\AppLogin\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.pdb
+C:\Users\moual\Desktop\AppLoacation\AppLogin\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.genruntimeconfig.cache
+C:\Users\moual\Desktop\AppLoacation\AppLogin\Prototype\App.Infrastructure\obj\Debug\net6.0\ref\App.Infrastructure.dll
+C:\Users\moual\Desktop\stage ingenieure\AppLoacation\AppLogin\Prototype\App.Infrastructure\bin\Debug\net6.0\App.Infrastructure.deps.json
+C:\Users\moual\Desktop\stage ingenieure\AppLoacation\AppLogin\Prototype\App.Infrastructure\bin\Debug\net6.0\App.Infrastructure.runtimeconfig.json
+C:\Users\moual\Desktop\stage ingenieure\AppLoacation\AppLogin\Prototype\App.Infrastructure\bin\Debug\net6.0\App.Infrastructure.dll
+C:\Users\moual\Desktop\stage ingenieure\AppLoacation\AppLogin\Prototype\App.Infrastructure\bin\Debug\net6.0\App.Infrastructure.pdb
+C:\Users\moual\Desktop\stage ingenieure\AppLoacation\AppLogin\Prototype\App.Infrastructure\bin\Debug\net6.0\App.ApplicationCore.dll
+C:\Users\moual\Desktop\stage ingenieure\AppLoacation\AppLogin\Prototype\App.Infrastructure\bin\Debug\net6.0\App.ApplicationCore.pdb
+C:\Users\moual\Desktop\stage ingenieure\AppLoacation\AppLogin\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\moual\Desktop\stage ingenieure\AppLoacation\AppLogin\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moual\Desktop\stage ingenieure\AppLoacation\AppLogin\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\moual\Desktop\stage ingenieure\AppLoacation\AppLogin\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.AssemblyInfo.cs
+C:\Users\moual\Desktop\stage ingenieure\AppLoacation\AppLogin\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\moual\Desktop\stage ingenieure\AppLoacation\AppLogin\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.csproj.CopyComplete
+C:\Users\moual\Desktop\stage ingenieure\AppLoacation\AppLogin\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.dll
+C:\Users\moual\Desktop\stage ingenieure\AppLoacation\AppLogin\Prototype\App.Infrastructure\obj\Debug\net6.0\refint\App.Infrastructure.dll
+C:\Users\moual\Desktop\stage ingenieure\AppLoacation\AppLogin\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.pdb
+C:\Users\moual\Desktop\stage ingenieure\AppLoacation\AppLogin\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.genruntimeconfig.cache
+C:\Users\moual\Desktop\stage ingenieure\AppLoacation\AppLogin\Prototype\App.Infrastructure\obj\Debug\net6.0\ref\App.Infrastructure.dll
+C:\Users\moual\Desktop\AppLoacationPhoto\AppLogin\Prototype\App.Infrastructure\bin\Debug\net6.0\App.Infrastructure.deps.json
+C:\Users\moual\Desktop\AppLoacationPhoto\AppLogin\Prototype\App.Infrastructure\bin\Debug\net6.0\App.Infrastructure.runtimeconfig.json
+C:\Users\moual\Desktop\AppLoacationPhoto\AppLogin\Prototype\App.Infrastructure\bin\Debug\net6.0\App.Infrastructure.dll
+C:\Users\moual\Desktop\AppLoacationPhoto\AppLogin\Prototype\App.Infrastructure\bin\Debug\net6.0\App.Infrastructure.pdb
+C:\Users\moual\Desktop\AppLoacationPhoto\AppLogin\Prototype\App.Infrastructure\bin\Debug\net6.0\App.ApplicationCore.dll
+C:\Users\moual\Desktop\AppLoacationPhoto\AppLogin\Prototype\App.Infrastructure\bin\Debug\net6.0\App.ApplicationCore.pdb
+C:\Users\moual\Desktop\AppLoacationPhoto\AppLogin\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\moual\Desktop\AppLoacationPhoto\AppLogin\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moual\Desktop\AppLoacationPhoto\AppLogin\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\moual\Desktop\AppLoacationPhoto\AppLogin\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.AssemblyInfo.cs
+C:\Users\moual\Desktop\AppLoacationPhoto\AppLogin\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\moual\Desktop\AppLoacationPhoto\AppLogin\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.csproj.CopyComplete
+C:\Users\moual\Desktop\AppLoacationPhoto\AppLogin\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.dll
+C:\Users\moual\Desktop\AppLoacationPhoto\AppLogin\Prototype\App.Infrastructure\obj\Debug\net6.0\refint\App.Infrastructure.dll
+C:\Users\moual\Desktop\AppLoacationPhoto\AppLogin\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.pdb
+C:\Users\moual\Desktop\AppLoacationPhoto\AppLogin\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.genruntimeconfig.cache
+C:\Users\moual\Desktop\AppLoacationPhoto\AppLogin\Prototype\App.Infrastructure\obj\Debug\net6.0\ref\App.Infrastructure.dll
+C:\Users\moual\Desktop\stage ingenieure\AppLoacationPhoto\AppLogin\Prototype\App.Infrastructure\bin\Debug\net6.0\App.Infrastructure.deps.json
+C:\Users\moual\Desktop\stage ingenieure\AppLoacationPhoto\AppLogin\Prototype\App.Infrastructure\bin\Debug\net6.0\App.Infrastructure.runtimeconfig.json
+C:\Users\moual\Desktop\stage ingenieure\AppLoacationPhoto\AppLogin\Prototype\App.Infrastructure\bin\Debug\net6.0\App.Infrastructure.dll
+C:\Users\moual\Desktop\stage ingenieure\AppLoacationPhoto\AppLogin\Prototype\App.Infrastructure\bin\Debug\net6.0\App.Infrastructure.pdb
+C:\Users\moual\Desktop\stage ingenieure\AppLoacationPhoto\AppLogin\Prototype\App.Infrastructure\bin\Debug\net6.0\App.ApplicationCore.dll
+C:\Users\moual\Desktop\stage ingenieure\AppLoacationPhoto\AppLogin\Prototype\App.Infrastructure\bin\Debug\net6.0\App.ApplicationCore.pdb
+C:\Users\moual\Desktop\stage ingenieure\AppLoacationPhoto\AppLogin\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\moual\Desktop\stage ingenieure\AppLoacationPhoto\AppLogin\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moual\Desktop\stage ingenieure\AppLoacationPhoto\AppLogin\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\moual\Desktop\stage ingenieure\AppLoacationPhoto\AppLogin\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.AssemblyInfo.cs
+C:\Users\moual\Desktop\stage ingenieure\AppLoacationPhoto\AppLogin\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\moual\Desktop\stage ingenieure\AppLoacationPhoto\AppLogin\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.csproj.CopyComplete
+C:\Users\moual\Desktop\stage ingenieure\AppLoacationPhoto\AppLogin\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.dll
+C:\Users\moual\Desktop\stage ingenieure\AppLoacationPhoto\AppLogin\Prototype\App.Infrastructure\obj\Debug\net6.0\refint\App.Infrastructure.dll
+C:\Users\moual\Desktop\stage ingenieure\AppLoacationPhoto\AppLogin\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.pdb
+C:\Users\moual\Desktop\stage ingenieure\AppLoacationPhoto\AppLogin\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.genruntimeconfig.cache
+C:\Users\moual\Desktop\stage ingenieure\AppLoacationPhoto\AppLogin\Prototype\App.Infrastructure\obj\Debug\net6.0\ref\App.Infrastructure.dll
+C:\Users\moual\Desktop\Dali\5eme\stage ingenieure\AppLoacationPhoto\AppLogin\Prototype\App.Infrastructure\bin\Debug\net6.0\App.Infrastructure.deps.json
+C:\Users\moual\Desktop\Dali\5eme\stage ingenieure\AppLoacationPhoto\AppLogin\Prototype\App.Infrastructure\bin\Debug\net6.0\App.Infrastructure.runtimeconfig.json
+C:\Users\moual\Desktop\Dali\5eme\stage ingenieure\AppLoacationPhoto\AppLogin\Prototype\App.Infrastructure\bin\Debug\net6.0\App.Infrastructure.dll
+C:\Users\moual\Desktop\Dali\5eme\stage ingenieure\AppLoacationPhoto\AppLogin\Prototype\App.Infrastructure\bin\Debug\net6.0\App.Infrastructure.pdb
+C:\Users\moual\Desktop\Dali\5eme\stage ingenieure\AppLoacationPhoto\AppLogin\Prototype\App.Infrastructure\bin\Debug\net6.0\App.ApplicationCore.dll
+C:\Users\moual\Desktop\Dali\5eme\stage ingenieure\AppLoacationPhoto\AppLogin\Prototype\App.Infrastructure\bin\Debug\net6.0\App.ApplicationCore.pdb
+C:\Users\moual\Desktop\Dali\5eme\stage ingenieure\AppLoacationPhoto\AppLogin\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\moual\Desktop\Dali\5eme\stage ingenieure\AppLoacationPhoto\AppLogin\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moual\Desktop\Dali\5eme\stage ingenieure\AppLoacationPhoto\AppLogin\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\moual\Desktop\Dali\5eme\stage ingenieure\AppLoacationPhoto\AppLogin\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.AssemblyInfo.cs
+C:\Users\moual\Desktop\Dali\5eme\stage ingenieure\AppLoacationPhoto\AppLogin\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\moual\Desktop\Dali\5eme\stage ingenieure\AppLoacationPhoto\AppLogin\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.csproj.CopyComplete
+C:\Users\moual\Desktop\Dali\5eme\stage ingenieure\AppLoacationPhoto\AppLogin\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.dll
+C:\Users\moual\Desktop\Dali\5eme\stage ingenieure\AppLoacationPhoto\AppLogin\Prototype\App.Infrastructure\obj\Debug\net6.0\refint\App.Infrastructure.dll
+C:\Users\moual\Desktop\Dali\5eme\stage ingenieure\AppLoacationPhoto\AppLogin\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.pdb
+C:\Users\moual\Desktop\Dali\5eme\stage ingenieure\AppLoacationPhoto\AppLogin\Prototype\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.genruntimeconfig.cache
+C:\Users\moual\Desktop\Dali\5eme\stage ingenieure\AppLoacationPhoto\AppLogin\Prototype\App.Infrastructure\obj\Debug\net6.0\ref\App.Infrastructure.dll

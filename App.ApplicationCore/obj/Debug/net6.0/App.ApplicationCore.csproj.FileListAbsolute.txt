@@ -1,0 +1,266 @@
+C:\Users\moual\Desktop\hamaApp\Prototype\App\App.ApplicationCore\bin\Debug\net6.0\App.ApplicationCore.deps.json
+C:\Users\moual\Desktop\hamaApp\Prototype\App\App.ApplicationCore\bin\Debug\net6.0\App.ApplicationCore.dll
+C:\Users\moual\Desktop\hamaApp\Prototype\App\App.ApplicationCore\bin\Debug\net6.0\App.ApplicationCore.pdb
+C:\Users\moual\Desktop\hamaApp\Prototype\App\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.csproj.AssemblyReference.cache
+C:\Users\moual\Desktop\hamaApp\Prototype\App\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moual\Desktop\hamaApp\Prototype\App\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\moual\Desktop\hamaApp\Prototype\App\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.AssemblyInfo.cs
+C:\Users\moual\Desktop\hamaApp\Prototype\App\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\moual\Desktop\hamaApp\Prototype\App\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.dll
+C:\Users\moual\Desktop\hamaApp\Prototype\App\App.ApplicationCore\obj\Debug\net6.0\refint\App.ApplicationCore.dll
+C:\Users\moual\Desktop\hamaApp\Prototype\App\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.pdb
+C:\Users\moual\Desktop\hamaApp\Prototype\App\App.ApplicationCore\obj\Debug\net6.0\ref\App.ApplicationCore.dll
+C:\Users\moual\Desktop\hamaApp\Prototype\App\App.ApplicationCore\bin\Debug\net6.0\App.ApplicationCore.runtimeconfig.json
+C:\Users\moual\Desktop\hamaApp\Prototype\App\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.genruntimeconfig.cache
+C:\Users\moual\Desktop\bbbb\Prototype\App\App.ApplicationCore\bin\Debug\net6.0\App.ApplicationCore.deps.json
+C:\Users\moual\Desktop\bbbb\Prototype\App\App.ApplicationCore\bin\Debug\net6.0\App.ApplicationCore.runtimeconfig.json
+C:\Users\moual\Desktop\bbbb\Prototype\App\App.ApplicationCore\bin\Debug\net6.0\App.ApplicationCore.dll
+C:\Users\moual\Desktop\bbbb\Prototype\App\App.ApplicationCore\bin\Debug\net6.0\App.ApplicationCore.pdb
+C:\Users\moual\Desktop\bbbb\Prototype\App\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.csproj.AssemblyReference.cache
+C:\Users\moual\Desktop\bbbb\Prototype\App\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moual\Desktop\bbbb\Prototype\App\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\moual\Desktop\bbbb\Prototype\App\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.AssemblyInfo.cs
+C:\Users\moual\Desktop\bbbb\Prototype\App\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\moual\Desktop\bbbb\Prototype\App\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.dll
+C:\Users\moual\Desktop\bbbb\Prototype\App\App.ApplicationCore\obj\Debug\net6.0\refint\App.ApplicationCore.dll
+C:\Users\moual\Desktop\bbbb\Prototype\App\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.pdb
+C:\Users\moual\Desktop\bbbb\Prototype\App\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.genruntimeconfig.cache
+C:\Users\moual\Desktop\bbbb\Prototype\App\App.ApplicationCore\obj\Debug\net6.0\ref\App.ApplicationCore.dll
+C:\Users\moual\Desktop\AppMrigla\Prototype\App\App.ApplicationCore\bin\Debug\net6.0\App.ApplicationCore.deps.json
+C:\Users\moual\Desktop\AppMrigla\Prototype\App\App.ApplicationCore\bin\Debug\net6.0\App.ApplicationCore.runtimeconfig.json
+C:\Users\moual\Desktop\AppMrigla\Prototype\App\App.ApplicationCore\bin\Debug\net6.0\App.ApplicationCore.dll
+C:\Users\moual\Desktop\AppMrigla\Prototype\App\App.ApplicationCore\bin\Debug\net6.0\App.ApplicationCore.pdb
+C:\Users\moual\Desktop\AppMrigla\Prototype\App\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.csproj.AssemblyReference.cache
+C:\Users\moual\Desktop\AppMrigla\Prototype\App\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moual\Desktop\AppMrigla\Prototype\App\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\moual\Desktop\AppMrigla\Prototype\App\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.AssemblyInfo.cs
+C:\Users\moual\Desktop\AppMrigla\Prototype\App\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\moual\Desktop\AppMrigla\Prototype\App\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.dll
+C:\Users\moual\Desktop\AppMrigla\Prototype\App\App.ApplicationCore\obj\Debug\net6.0\refint\App.ApplicationCore.dll
+C:\Users\moual\Desktop\AppMrigla\Prototype\App\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.pdb
+C:\Users\moual\Desktop\AppMrigla\Prototype\App\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.genruntimeconfig.cache
+C:\Users\moual\Desktop\AppMrigla\Prototype\App\App.ApplicationCore\obj\Debug\net6.0\ref\App.ApplicationCore.dll
+C:\Users\moual\Desktop\daliapp\AppMrigla\Prototype\App\App.ApplicationCore\bin\Debug\net6.0\App.ApplicationCore.deps.json
+C:\Users\moual\Desktop\daliapp\AppMrigla\Prototype\App\App.ApplicationCore\bin\Debug\net6.0\App.ApplicationCore.runtimeconfig.json
+C:\Users\moual\Desktop\daliapp\AppMrigla\Prototype\App\App.ApplicationCore\bin\Debug\net6.0\App.ApplicationCore.dll
+C:\Users\moual\Desktop\daliapp\AppMrigla\Prototype\App\App.ApplicationCore\bin\Debug\net6.0\App.ApplicationCore.pdb
+C:\Users\moual\Desktop\daliapp\AppMrigla\Prototype\App\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.csproj.AssemblyReference.cache
+C:\Users\moual\Desktop\daliapp\AppMrigla\Prototype\App\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moual\Desktop\daliapp\AppMrigla\Prototype\App\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\moual\Desktop\daliapp\AppMrigla\Prototype\App\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.AssemblyInfo.cs
+C:\Users\moual\Desktop\daliapp\AppMrigla\Prototype\App\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\moual\Desktop\daliapp\AppMrigla\Prototype\App\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.dll
+C:\Users\moual\Desktop\daliapp\AppMrigla\Prototype\App\App.ApplicationCore\obj\Debug\net6.0\refint\App.ApplicationCore.dll
+C:\Users\moual\Desktop\daliapp\AppMrigla\Prototype\App\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.pdb
+C:\Users\moual\Desktop\daliapp\AppMrigla\Prototype\App\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.genruntimeconfig.cache
+C:\Users\moual\Desktop\daliapp\AppMrigla\Prototype\App\App.ApplicationCore\obj\Debug\net6.0\ref\App.ApplicationCore.dll
+C:\Users\moual\Desktop\HamHoum\AppMrigla\Prototype\App\App.ApplicationCore\bin\Debug\net6.0\App.ApplicationCore.deps.json
+C:\Users\moual\Desktop\HamHoum\AppMrigla\Prototype\App\App.ApplicationCore\bin\Debug\net6.0\App.ApplicationCore.runtimeconfig.json
+C:\Users\moual\Desktop\HamHoum\AppMrigla\Prototype\App\App.ApplicationCore\bin\Debug\net6.0\App.ApplicationCore.dll
+C:\Users\moual\Desktop\HamHoum\AppMrigla\Prototype\App\App.ApplicationCore\bin\Debug\net6.0\App.ApplicationCore.pdb
+C:\Users\moual\Desktop\HamHoum\AppMrigla\Prototype\App\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.csproj.AssemblyReference.cache
+C:\Users\moual\Desktop\HamHoum\AppMrigla\Prototype\App\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moual\Desktop\HamHoum\AppMrigla\Prototype\App\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\moual\Desktop\HamHoum\AppMrigla\Prototype\App\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.AssemblyInfo.cs
+C:\Users\moual\Desktop\HamHoum\AppMrigla\Prototype\App\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\moual\Desktop\HamHoum\AppMrigla\Prototype\App\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.dll
+C:\Users\moual\Desktop\HamHoum\AppMrigla\Prototype\App\App.ApplicationCore\obj\Debug\net6.0\refint\App.ApplicationCore.dll
+C:\Users\moual\Desktop\HamHoum\AppMrigla\Prototype\App\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.pdb
+C:\Users\moual\Desktop\HamHoum\AppMrigla\Prototype\App\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.genruntimeconfig.cache
+C:\Users\moual\Desktop\HamHoum\AppMrigla\Prototype\App\App.ApplicationCore\obj\Debug\net6.0\ref\App.ApplicationCore.dll
+C:\Users\moual\Desktop\stage ingenieure\HamHoumApp\Prototype\App.ApplicationCore\bin\Debug\net6.0\App.ApplicationCore.deps.json
+C:\Users\moual\Desktop\stage ingenieure\HamHoumApp\Prototype\App.ApplicationCore\bin\Debug\net6.0\App.ApplicationCore.runtimeconfig.json
+C:\Users\moual\Desktop\stage ingenieure\HamHoumApp\Prototype\App.ApplicationCore\bin\Debug\net6.0\App.ApplicationCore.dll
+C:\Users\moual\Desktop\stage ingenieure\HamHoumApp\Prototype\App.ApplicationCore\bin\Debug\net6.0\App.ApplicationCore.pdb
+C:\Users\moual\Desktop\stage ingenieure\HamHoumApp\Prototype\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.csproj.AssemblyReference.cache
+C:\Users\moual\Desktop\stage ingenieure\HamHoumApp\Prototype\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moual\Desktop\stage ingenieure\HamHoumApp\Prototype\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\moual\Desktop\stage ingenieure\HamHoumApp\Prototype\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.AssemblyInfo.cs
+C:\Users\moual\Desktop\stage ingenieure\HamHoumApp\Prototype\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\moual\Desktop\stage ingenieure\HamHoumApp\Prototype\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.dll
+C:\Users\moual\Desktop\stage ingenieure\HamHoumApp\Prototype\App.ApplicationCore\obj\Debug\net6.0\refint\App.ApplicationCore.dll
+C:\Users\moual\Desktop\stage ingenieure\HamHoumApp\Prototype\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.pdb
+C:\Users\moual\Desktop\stage ingenieure\HamHoumApp\Prototype\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.genruntimeconfig.cache
+C:\Users\moual\Desktop\stage ingenieure\HamHoumApp\Prototype\App.ApplicationCore\obj\Debug\net6.0\ref\App.ApplicationCore.dll
+C:\Users\moual\Desktop\HamaAppNsala7\Prototype\App.ApplicationCore\bin\Debug\net6.0\App.ApplicationCore.deps.json
+C:\Users\moual\Desktop\HamaAppNsala7\Prototype\App.ApplicationCore\bin\Debug\net6.0\App.ApplicationCore.runtimeconfig.json
+C:\Users\moual\Desktop\HamaAppNsala7\Prototype\App.ApplicationCore\bin\Debug\net6.0\App.ApplicationCore.dll
+C:\Users\moual\Desktop\HamaAppNsala7\Prototype\App.ApplicationCore\bin\Debug\net6.0\App.ApplicationCore.pdb
+C:\Users\moual\Desktop\HamaAppNsala7\Prototype\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.csproj.AssemblyReference.cache
+C:\Users\moual\Desktop\HamaAppNsala7\Prototype\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moual\Desktop\HamaAppNsala7\Prototype\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\moual\Desktop\HamaAppNsala7\Prototype\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.AssemblyInfo.cs
+C:\Users\moual\Desktop\HamaAppNsala7\Prototype\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\moual\Desktop\HamaAppNsala7\Prototype\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.dll
+C:\Users\moual\Desktop\HamaAppNsala7\Prototype\App.ApplicationCore\obj\Debug\net6.0\refint\App.ApplicationCore.dll
+C:\Users\moual\Desktop\HamaAppNsala7\Prototype\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.pdb
+C:\Users\moual\Desktop\HamaAppNsala7\Prototype\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.genruntimeconfig.cache
+C:\Users\moual\Desktop\HamaAppNsala7\Prototype\App.ApplicationCore\obj\Debug\net6.0\ref\App.ApplicationCore.dll
+C:\Users\moual\Desktop\stage ingenieure\HamaAppNsala7\Prototype\App.ApplicationCore\bin\Debug\net6.0\App.ApplicationCore.deps.json
+C:\Users\moual\Desktop\stage ingenieure\HamaAppNsala7\Prototype\App.ApplicationCore\bin\Debug\net6.0\App.ApplicationCore.runtimeconfig.json
+C:\Users\moual\Desktop\stage ingenieure\HamaAppNsala7\Prototype\App.ApplicationCore\bin\Debug\net6.0\App.ApplicationCore.dll
+C:\Users\moual\Desktop\stage ingenieure\HamaAppNsala7\Prototype\App.ApplicationCore\bin\Debug\net6.0\App.ApplicationCore.pdb
+C:\Users\moual\Desktop\stage ingenieure\HamaAppNsala7\Prototype\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.csproj.AssemblyReference.cache
+C:\Users\moual\Desktop\stage ingenieure\HamaAppNsala7\Prototype\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moual\Desktop\stage ingenieure\HamaAppNsala7\Prototype\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\moual\Desktop\stage ingenieure\HamaAppNsala7\Prototype\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.AssemblyInfo.cs
+C:\Users\moual\Desktop\stage ingenieure\HamaAppNsala7\Prototype\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\moual\Desktop\stage ingenieure\HamaAppNsala7\Prototype\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.dll
+C:\Users\moual\Desktop\stage ingenieure\HamaAppNsala7\Prototype\App.ApplicationCore\obj\Debug\net6.0\refint\App.ApplicationCore.dll
+C:\Users\moual\Desktop\stage ingenieure\HamaAppNsala7\Prototype\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.pdb
+C:\Users\moual\Desktop\stage ingenieure\HamaAppNsala7\Prototype\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.genruntimeconfig.cache
+C:\Users\moual\Desktop\stage ingenieure\HamaAppNsala7\Prototype\App.ApplicationCore\obj\Debug\net6.0\ref\App.ApplicationCore.dll
+C:\Users\moual\Desktop\AppLogin\Prototype\App.ApplicationCore\bin\Debug\net6.0\App.ApplicationCore.deps.json
+C:\Users\moual\Desktop\AppLogin\Prototype\App.ApplicationCore\bin\Debug\net6.0\App.ApplicationCore.runtimeconfig.json
+C:\Users\moual\Desktop\AppLogin\Prototype\App.ApplicationCore\bin\Debug\net6.0\App.ApplicationCore.dll
+C:\Users\moual\Desktop\AppLogin\Prototype\App.ApplicationCore\bin\Debug\net6.0\App.ApplicationCore.pdb
+C:\Users\moual\Desktop\AppLogin\Prototype\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.csproj.AssemblyReference.cache
+C:\Users\moual\Desktop\AppLogin\Prototype\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moual\Desktop\AppLogin\Prototype\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\moual\Desktop\AppLogin\Prototype\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.AssemblyInfo.cs
+C:\Users\moual\Desktop\AppLogin\Prototype\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\moual\Desktop\AppLogin\Prototype\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.dll
+C:\Users\moual\Desktop\AppLogin\Prototype\App.ApplicationCore\obj\Debug\net6.0\refint\App.ApplicationCore.dll
+C:\Users\moual\Desktop\AppLogin\Prototype\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.pdb
+C:\Users\moual\Desktop\AppLogin\Prototype\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.genruntimeconfig.cache
+C:\Users\moual\Desktop\AppLogin\Prototype\App.ApplicationCore\obj\Debug\net6.0\ref\App.ApplicationCore.dll
+C:\Users\moual\Desktop\DaliAppLogin\AppLogin\Prototype\App.ApplicationCore\bin\Debug\net6.0\App.ApplicationCore.deps.json
+C:\Users\moual\Desktop\DaliAppLogin\AppLogin\Prototype\App.ApplicationCore\bin\Debug\net6.0\App.ApplicationCore.runtimeconfig.json
+C:\Users\moual\Desktop\DaliAppLogin\AppLogin\Prototype\App.ApplicationCore\bin\Debug\net6.0\App.ApplicationCore.dll
+C:\Users\moual\Desktop\DaliAppLogin\AppLogin\Prototype\App.ApplicationCore\bin\Debug\net6.0\App.ApplicationCore.pdb
+C:\Users\moual\Desktop\DaliAppLogin\AppLogin\Prototype\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.csproj.AssemblyReference.cache
+C:\Users\moual\Desktop\DaliAppLogin\AppLogin\Prototype\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moual\Desktop\DaliAppLogin\AppLogin\Prototype\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\moual\Desktop\DaliAppLogin\AppLogin\Prototype\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.AssemblyInfo.cs
+C:\Users\moual\Desktop\DaliAppLogin\AppLogin\Prototype\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\moual\Desktop\DaliAppLogin\AppLogin\Prototype\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.dll
+C:\Users\moual\Desktop\DaliAppLogin\AppLogin\Prototype\App.ApplicationCore\obj\Debug\net6.0\refint\App.ApplicationCore.dll
+C:\Users\moual\Desktop\DaliAppLogin\AppLogin\Prototype\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.pdb
+C:\Users\moual\Desktop\DaliAppLogin\AppLogin\Prototype\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.genruntimeconfig.cache
+C:\Users\moual\Desktop\DaliAppLogin\AppLogin\Prototype\App.ApplicationCore\obj\Debug\net6.0\ref\App.ApplicationCore.dll
+C:\Users\moual\Desktop\stage ingenieure\DaliAppLogin\AppLogin\Prototype\App.ApplicationCore\bin\Debug\net6.0\App.ApplicationCore.deps.json
+C:\Users\moual\Desktop\stage ingenieure\DaliAppLogin\AppLogin\Prototype\App.ApplicationCore\bin\Debug\net6.0\App.ApplicationCore.runtimeconfig.json
+C:\Users\moual\Desktop\stage ingenieure\DaliAppLogin\AppLogin\Prototype\App.ApplicationCore\bin\Debug\net6.0\App.ApplicationCore.dll
+C:\Users\moual\Desktop\stage ingenieure\DaliAppLogin\AppLogin\Prototype\App.ApplicationCore\bin\Debug\net6.0\App.ApplicationCore.pdb
+C:\Users\moual\Desktop\stage ingenieure\DaliAppLogin\AppLogin\Prototype\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.csproj.AssemblyReference.cache
+C:\Users\moual\Desktop\stage ingenieure\DaliAppLogin\AppLogin\Prototype\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moual\Desktop\stage ingenieure\DaliAppLogin\AppLogin\Prototype\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\moual\Desktop\stage ingenieure\DaliAppLogin\AppLogin\Prototype\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.AssemblyInfo.cs
+C:\Users\moual\Desktop\stage ingenieure\DaliAppLogin\AppLogin\Prototype\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\moual\Desktop\stage ingenieure\DaliAppLogin\AppLogin\Prototype\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.dll
+C:\Users\moual\Desktop\stage ingenieure\DaliAppLogin\AppLogin\Prototype\App.ApplicationCore\obj\Debug\net6.0\refint\App.ApplicationCore.dll
+C:\Users\moual\Desktop\stage ingenieure\DaliAppLogin\AppLogin\Prototype\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.pdb
+C:\Users\moual\Desktop\stage ingenieure\DaliAppLogin\AppLogin\Prototype\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.genruntimeconfig.cache
+C:\Users\moual\Desktop\stage ingenieure\DaliAppLogin\AppLogin\Prototype\App.ApplicationCore\obj\Debug\net6.0\ref\App.ApplicationCore.dll
+C:\Users\moual\Desktop\AppLogin\AppLogin\Prototype\App.ApplicationCore\bin\Debug\net6.0\App.ApplicationCore.deps.json
+C:\Users\moual\Desktop\AppLogin\AppLogin\Prototype\App.ApplicationCore\bin\Debug\net6.0\App.ApplicationCore.runtimeconfig.json
+C:\Users\moual\Desktop\AppLogin\AppLogin\Prototype\App.ApplicationCore\bin\Debug\net6.0\App.ApplicationCore.dll
+C:\Users\moual\Desktop\AppLogin\AppLogin\Prototype\App.ApplicationCore\bin\Debug\net6.0\App.ApplicationCore.pdb
+C:\Users\moual\Desktop\AppLogin\AppLogin\Prototype\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.csproj.AssemblyReference.cache
+C:\Users\moual\Desktop\AppLogin\AppLogin\Prototype\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moual\Desktop\AppLogin\AppLogin\Prototype\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\moual\Desktop\AppLogin\AppLogin\Prototype\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.AssemblyInfo.cs
+C:\Users\moual\Desktop\AppLogin\AppLogin\Prototype\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\moual\Desktop\AppLogin\AppLogin\Prototype\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.dll
+C:\Users\moual\Desktop\AppLogin\AppLogin\Prototype\App.ApplicationCore\obj\Debug\net6.0\refint\App.ApplicationCore.dll
+C:\Users\moual\Desktop\AppLogin\AppLogin\Prototype\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.pdb
+C:\Users\moual\Desktop\AppLogin\AppLogin\Prototype\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.genruntimeconfig.cache
+C:\Users\moual\Desktop\AppLogin\AppLogin\Prototype\App.ApplicationCore\obj\Debug\net6.0\ref\App.ApplicationCore.dll
+C:\Users\moual\Desktop\stage ingenieure\AppLogin\AppLogin\Prototype\App.ApplicationCore\bin\Debug\net6.0\App.ApplicationCore.deps.json
+C:\Users\moual\Desktop\stage ingenieure\AppLogin\AppLogin\Prototype\App.ApplicationCore\bin\Debug\net6.0\App.ApplicationCore.runtimeconfig.json
+C:\Users\moual\Desktop\stage ingenieure\AppLogin\AppLogin\Prototype\App.ApplicationCore\bin\Debug\net6.0\App.ApplicationCore.dll
+C:\Users\moual\Desktop\stage ingenieure\AppLogin\AppLogin\Prototype\App.ApplicationCore\bin\Debug\net6.0\App.ApplicationCore.pdb
+C:\Users\moual\Desktop\stage ingenieure\AppLogin\AppLogin\Prototype\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.csproj.AssemblyReference.cache
+C:\Users\moual\Desktop\stage ingenieure\AppLogin\AppLogin\Prototype\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moual\Desktop\stage ingenieure\AppLogin\AppLogin\Prototype\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\moual\Desktop\stage ingenieure\AppLogin\AppLogin\Prototype\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.AssemblyInfo.cs
+C:\Users\moual\Desktop\stage ingenieure\AppLogin\AppLogin\Prototype\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\moual\Desktop\stage ingenieure\AppLogin\AppLogin\Prototype\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.dll
+C:\Users\moual\Desktop\stage ingenieure\AppLogin\AppLogin\Prototype\App.ApplicationCore\obj\Debug\net6.0\refint\App.ApplicationCore.dll
+C:\Users\moual\Desktop\stage ingenieure\AppLogin\AppLogin\Prototype\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.pdb
+C:\Users\moual\Desktop\stage ingenieure\AppLogin\AppLogin\Prototype\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.genruntimeconfig.cache
+C:\Users\moual\Desktop\stage ingenieure\AppLogin\AppLogin\Prototype\App.ApplicationCore\obj\Debug\net6.0\ref\App.ApplicationCore.dll
+C:\Users\moual\Desktop\stage ingenieure\DaliLogin\AppLogin\Prototype\App.ApplicationCore\bin\Debug\net6.0\App.ApplicationCore.deps.json
+C:\Users\moual\Desktop\stage ingenieure\DaliLogin\AppLogin\Prototype\App.ApplicationCore\bin\Debug\net6.0\App.ApplicationCore.runtimeconfig.json
+C:\Users\moual\Desktop\stage ingenieure\DaliLogin\AppLogin\Prototype\App.ApplicationCore\bin\Debug\net6.0\App.ApplicationCore.dll
+C:\Users\moual\Desktop\stage ingenieure\DaliLogin\AppLogin\Prototype\App.ApplicationCore\bin\Debug\net6.0\App.ApplicationCore.pdb
+C:\Users\moual\Desktop\stage ingenieure\DaliLogin\AppLogin\Prototype\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.csproj.AssemblyReference.cache
+C:\Users\moual\Desktop\stage ingenieure\DaliLogin\AppLogin\Prototype\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moual\Desktop\stage ingenieure\DaliLogin\AppLogin\Prototype\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\moual\Desktop\stage ingenieure\DaliLogin\AppLogin\Prototype\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.AssemblyInfo.cs
+C:\Users\moual\Desktop\stage ingenieure\DaliLogin\AppLogin\Prototype\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\moual\Desktop\stage ingenieure\DaliLogin\AppLogin\Prototype\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.dll
+C:\Users\moual\Desktop\stage ingenieure\DaliLogin\AppLogin\Prototype\App.ApplicationCore\obj\Debug\net6.0\refint\App.ApplicationCore.dll
+C:\Users\moual\Desktop\stage ingenieure\DaliLogin\AppLogin\Prototype\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.pdb
+C:\Users\moual\Desktop\stage ingenieure\DaliLogin\AppLogin\Prototype\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.genruntimeconfig.cache
+C:\Users\moual\Desktop\stage ingenieure\DaliLogin\AppLogin\Prototype\App.ApplicationCore\obj\Debug\net6.0\ref\App.ApplicationCore.dll
+C:\Users\moual\Desktop\AppLoacation\AppLogin\Prototype\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.csproj.AssemblyReference.cache
+C:\Users\moual\Desktop\AppLoacation\AppLogin\Prototype\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moual\Desktop\AppLoacation\AppLogin\Prototype\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\moual\Desktop\AppLoacation\AppLogin\Prototype\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.AssemblyInfo.cs
+C:\Users\moual\Desktop\AppLoacation\AppLogin\Prototype\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\moual\Desktop\AppLoacation\AppLogin\Prototype\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.dll
+C:\Users\moual\Desktop\AppLoacation\AppLogin\Prototype\App.ApplicationCore\obj\Debug\net6.0\refint\App.ApplicationCore.dll
+C:\Users\moual\Desktop\AppLoacation\AppLogin\Prototype\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.pdb
+C:\Users\moual\Desktop\AppLoacation\AppLogin\Prototype\App.ApplicationCore\bin\Debug\net6.0\App.ApplicationCore.deps.json
+C:\Users\moual\Desktop\AppLoacation\AppLogin\Prototype\App.ApplicationCore\bin\Debug\net6.0\App.ApplicationCore.runtimeconfig.json
+C:\Users\moual\Desktop\AppLoacation\AppLogin\Prototype\App.ApplicationCore\bin\Debug\net6.0\App.ApplicationCore.dll
+C:\Users\moual\Desktop\AppLoacation\AppLogin\Prototype\App.ApplicationCore\bin\Debug\net6.0\App.ApplicationCore.pdb
+C:\Users\moual\Desktop\AppLoacation\AppLogin\Prototype\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.genruntimeconfig.cache
+C:\Users\moual\Desktop\AppLoacation\AppLogin\Prototype\App.ApplicationCore\obj\Debug\net6.0\ref\App.ApplicationCore.dll
+C:\Users\moual\Desktop\stage ingenieure\AppLoacation\AppLogin\Prototype\App.ApplicationCore\bin\Debug\net6.0\App.ApplicationCore.deps.json
+C:\Users\moual\Desktop\stage ingenieure\AppLoacation\AppLogin\Prototype\App.ApplicationCore\bin\Debug\net6.0\App.ApplicationCore.runtimeconfig.json
+C:\Users\moual\Desktop\stage ingenieure\AppLoacation\AppLogin\Prototype\App.ApplicationCore\bin\Debug\net6.0\App.ApplicationCore.dll
+C:\Users\moual\Desktop\stage ingenieure\AppLoacation\AppLogin\Prototype\App.ApplicationCore\bin\Debug\net6.0\App.ApplicationCore.pdb
+C:\Users\moual\Desktop\stage ingenieure\AppLoacation\AppLogin\Prototype\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.csproj.AssemblyReference.cache
+C:\Users\moual\Desktop\stage ingenieure\AppLoacation\AppLogin\Prototype\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moual\Desktop\stage ingenieure\AppLoacation\AppLogin\Prototype\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\moual\Desktop\stage ingenieure\AppLoacation\AppLogin\Prototype\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.AssemblyInfo.cs
+C:\Users\moual\Desktop\stage ingenieure\AppLoacation\AppLogin\Prototype\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\moual\Desktop\stage ingenieure\AppLoacation\AppLogin\Prototype\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.dll
+C:\Users\moual\Desktop\stage ingenieure\AppLoacation\AppLogin\Prototype\App.ApplicationCore\obj\Debug\net6.0\refint\App.ApplicationCore.dll
+C:\Users\moual\Desktop\stage ingenieure\AppLoacation\AppLogin\Prototype\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.pdb
+C:\Users\moual\Desktop\stage ingenieure\AppLoacation\AppLogin\Prototype\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.genruntimeconfig.cache
+C:\Users\moual\Desktop\stage ingenieure\AppLoacation\AppLogin\Prototype\App.ApplicationCore\obj\Debug\net6.0\ref\App.ApplicationCore.dll
+C:\Users\moual\Desktop\AppLoacationPhoto\AppLogin\Prototype\App.ApplicationCore\bin\Debug\net6.0\App.ApplicationCore.deps.json
+C:\Users\moual\Desktop\AppLoacationPhoto\AppLogin\Prototype\App.ApplicationCore\bin\Debug\net6.0\App.ApplicationCore.runtimeconfig.json
+C:\Users\moual\Desktop\AppLoacationPhoto\AppLogin\Prototype\App.ApplicationCore\bin\Debug\net6.0\App.ApplicationCore.dll
+C:\Users\moual\Desktop\AppLoacationPhoto\AppLogin\Prototype\App.ApplicationCore\bin\Debug\net6.0\App.ApplicationCore.pdb
+C:\Users\moual\Desktop\AppLoacationPhoto\AppLogin\Prototype\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.csproj.AssemblyReference.cache
+C:\Users\moual\Desktop\AppLoacationPhoto\AppLogin\Prototype\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moual\Desktop\AppLoacationPhoto\AppLogin\Prototype\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\moual\Desktop\AppLoacationPhoto\AppLogin\Prototype\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.AssemblyInfo.cs
+C:\Users\moual\Desktop\AppLoacationPhoto\AppLogin\Prototype\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\moual\Desktop\AppLoacationPhoto\AppLogin\Prototype\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.dll
+C:\Users\moual\Desktop\AppLoacationPhoto\AppLogin\Prototype\App.ApplicationCore\obj\Debug\net6.0\refint\App.ApplicationCore.dll
+C:\Users\moual\Desktop\AppLoacationPhoto\AppLogin\Prototype\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.pdb
+C:\Users\moual\Desktop\AppLoacationPhoto\AppLogin\Prototype\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.genruntimeconfig.cache
+C:\Users\moual\Desktop\AppLoacationPhoto\AppLogin\Prototype\App.ApplicationCore\obj\Debug\net6.0\ref\App.ApplicationCore.dll
+C:\Users\moual\Desktop\stage ingenieure\AppLoacationPhoto\AppLogin\Prototype\App.ApplicationCore\bin\Debug\net6.0\App.ApplicationCore.deps.json
+C:\Users\moual\Desktop\stage ingenieure\AppLoacationPhoto\AppLogin\Prototype\App.ApplicationCore\bin\Debug\net6.0\App.ApplicationCore.runtimeconfig.json
+C:\Users\moual\Desktop\stage ingenieure\AppLoacationPhoto\AppLogin\Prototype\App.ApplicationCore\bin\Debug\net6.0\App.ApplicationCore.dll
+C:\Users\moual\Desktop\stage ingenieure\AppLoacationPhoto\AppLogin\Prototype\App.ApplicationCore\bin\Debug\net6.0\App.ApplicationCore.pdb
+C:\Users\moual\Desktop\stage ingenieure\AppLoacationPhoto\AppLogin\Prototype\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.csproj.AssemblyReference.cache
+C:\Users\moual\Desktop\stage ingenieure\AppLoacationPhoto\AppLogin\Prototype\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moual\Desktop\stage ingenieure\AppLoacationPhoto\AppLogin\Prototype\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\moual\Desktop\stage ingenieure\AppLoacationPhoto\AppLogin\Prototype\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.AssemblyInfo.cs
+C:\Users\moual\Desktop\stage ingenieure\AppLoacationPhoto\AppLogin\Prototype\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\moual\Desktop\stage ingenieure\AppLoacationPhoto\AppLogin\Prototype\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.dll
+C:\Users\moual\Desktop\stage ingenieure\AppLoacationPhoto\AppLogin\Prototype\App.ApplicationCore\obj\Debug\net6.0\refint\App.ApplicationCore.dll
+C:\Users\moual\Desktop\stage ingenieure\AppLoacationPhoto\AppLogin\Prototype\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.pdb
+C:\Users\moual\Desktop\stage ingenieure\AppLoacationPhoto\AppLogin\Prototype\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.genruntimeconfig.cache
+C:\Users\moual\Desktop\stage ingenieure\AppLoacationPhoto\AppLogin\Prototype\App.ApplicationCore\obj\Debug\net6.0\ref\App.ApplicationCore.dll
+C:\Users\moual\Desktop\Dali\5eme\stage ingenieure\AppLoacationPhoto\AppLogin\Prototype\App.ApplicationCore\bin\Debug\net6.0\App.ApplicationCore.deps.json
+C:\Users\moual\Desktop\Dali\5eme\stage ingenieure\AppLoacationPhoto\AppLogin\Prototype\App.ApplicationCore\bin\Debug\net6.0\App.ApplicationCore.runtimeconfig.json
+C:\Users\moual\Desktop\Dali\5eme\stage ingenieure\AppLoacationPhoto\AppLogin\Prototype\App.ApplicationCore\bin\Debug\net6.0\App.ApplicationCore.dll
+C:\Users\moual\Desktop\Dali\5eme\stage ingenieure\AppLoacationPhoto\AppLogin\Prototype\App.ApplicationCore\bin\Debug\net6.0\App.ApplicationCore.pdb
+C:\Users\moual\Desktop\Dali\5eme\stage ingenieure\AppLoacationPhoto\AppLogin\Prototype\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.csproj.AssemblyReference.cache
+C:\Users\moual\Desktop\Dali\5eme\stage ingenieure\AppLoacationPhoto\AppLogin\Prototype\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moual\Desktop\Dali\5eme\stage ingenieure\AppLoacationPhoto\AppLogin\Prototype\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\moual\Desktop\Dali\5eme\stage ingenieure\AppLoacationPhoto\AppLogin\Prototype\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.AssemblyInfo.cs
+C:\Users\moual\Desktop\Dali\5eme\stage ingenieure\AppLoacationPhoto\AppLogin\Prototype\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\moual\Desktop\Dali\5eme\stage ingenieure\AppLoacationPhoto\AppLogin\Prototype\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.dll
+C:\Users\moual\Desktop\Dali\5eme\stage ingenieure\AppLoacationPhoto\AppLogin\Prototype\App.ApplicationCore\obj\Debug\net6.0\refint\App.ApplicationCore.dll
+C:\Users\moual\Desktop\Dali\5eme\stage ingenieure\AppLoacationPhoto\AppLogin\Prototype\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.pdb
+C:\Users\moual\Desktop\Dali\5eme\stage ingenieure\AppLoacationPhoto\AppLogin\Prototype\App.ApplicationCore\obj\Debug\net6.0\App.ApplicationCore.genruntimeconfig.cache
+C:\Users\moual\Desktop\Dali\5eme\stage ingenieure\AppLoacationPhoto\AppLogin\Prototype\App.ApplicationCore\obj\Debug\net6.0\ref\App.ApplicationCore.dll
